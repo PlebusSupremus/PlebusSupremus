@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Plebby!</h1>
 <h3 align="center">A 13 year old developer from India.</h3>
 
-- I’m currently working on [**Pleb's Utilities Bot**](https://github.com/Plebus-Supremus/Pleb-Utilities-Bot)!
+- I’m currently working on [**Pleb's Utilities Bot**](https://github.com/PlebusSupremus/Pleb-Utilities-Bot)!
 
 - I’m also collaborating with [**Videro**](https://github.com/vxdero) in developing [**TrixZ**](https://discordbotlist.com/bots/trixz)!
 
