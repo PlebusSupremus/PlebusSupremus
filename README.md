@@ -3,7 +3,7 @@
 
 - I’m currently working on [**Pleb's Utilities Bot**](https://github.com/Plebus-Supremus/Pleb-Utilities-Bot)!
 
-- I’m also collaborating with [Videro](https://github.com/vxdero) in developing [**TrixZ**](https://discordbotlist.com/bots/trixz)!
+- I’m also collaborating with [**Videro**](https://github.com/vxdero) in developing [**TrixZ**](https://discordbotlist.com/bots/trixz)!
 
 - I’m trying to learn GFX too!
 
