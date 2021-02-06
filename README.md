@@ -18,6 +18,6 @@
 </p>
 <p align="left">
   <a href="https://discord.com/invite/fZWJ785bzy" targer='blank'>
-  <img src="https://discordapp.com/api/guilds/690494216572239922/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/>
+  <img src="https://discordapp.com/api/guilds/724594864213196872/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/>
   </a>
 </p>
