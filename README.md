@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Plebby!</h1>
+<h1 align="center">Hello, I am PlebusSupremus (a.k.a Pleb)</h1>
 <h3 align="center">A 14 year old developer from India.</h3>
 
 - I’m currently working on [**Pleb's Utilities Bot**](https://github.com/PlebusSupremus/Pleb-Utilities-Bot)!
