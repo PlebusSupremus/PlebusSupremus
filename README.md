@@ -17,7 +17,7 @@
   <a href="https://twitter.com/PlebusSupremus" target="blank"><img src="https://img.shields.io/twitter/follow/PlebusSupremus?logo=twitter&style=for-the-badge&color=blue&lablelColor=ffffff&logoColor=blue" alt="plebby" title="Follow me on Twitter!"/></a>
 </p>
 <p align="left">
-  <a href="https://discord.com/invite/fZWJ785bzy" targer='blank'>
+  <a href="https://discord.com/invite/fZWJ785bzy" target='blank'>
   <img src="https://discordapp.com/api/guilds/724594864213196872/widget.png?style=banner2" alt="Join my discord server!" title="Join my discord server!"/>
   </a>
 </p>
